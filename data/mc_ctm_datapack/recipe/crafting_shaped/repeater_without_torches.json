@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:stone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "R R",
+    "SRS",
+    "BBB"
+  ],
+  "result": {
+    "id": "minecraft:repeater",
+    "count": 1
+  },
+  "show_notification": true
+}

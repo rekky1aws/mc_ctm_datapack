@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "pattern": [
+    " L ",
+    "L L",
+    " L "
+  ],
+  "result": {
+    "id": "minecraft:barrel",
+    "count": 2
+  },
+  "show_notification": true
+}
