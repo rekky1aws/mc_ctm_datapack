@@ -10,13 +10,12 @@
     }
   },
   "pattern": [
-    "I I",
+    "ILI",
     "ILI",
     " I "
   ],
   "result": {
-    "id": "minecraft:hopper",
-    "count": 1
+    "id": "minecraft:hopper"
   },
   "show_notification": true
 }
